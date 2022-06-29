@@ -1,0 +1,63 @@
+com/example/sahyadri_events/AdminRegistrationsAdapter.java
+ com.example.sahyadri_events.AdminRegistrationsAdapter
+ com.example.sahyadri_events.AdminRegistrationsAdapter$MyViewHolder
+com/example/sahyadri_events/Admin_Registrations.java
+ com.example.sahyadri_events.Admin_Registrations
+ com.example.sahyadri_events.Admin_Registrations$1
+com/example/sahyadri_events/AdminHomePage.java
+ com.example.sahyadri_events.AdminHomePage
+ com.example.sahyadri_events.AdminHomePage$1
+ com.example.sahyadri_events.AdminHomePage$2
+ com.example.sahyadri_events.AdminHomePage$3
+com/example/sahyadri_events/CustomAdapter.java
+ com.example.sahyadri_events.CustomAdapter
+ com.example.sahyadri_events.CustomAdapter$MyViewHolder
+com/example/sahyadri_events/Student_Registrations.java
+ com.example.sahyadri_events.Student_Registrations
+ com.example.sahyadri_events.Student_Registrations$1
+com/example/sahyadri_events/StudentRegister.java
+ com.example.sahyadri_events.StudentRegister
+ com.example.sahyadri_events.StudentRegister$1
+com/example/sahyadri_events/AdminLogin.java
+ com.example.sahyadri_events.AdminLogin
+ com.example.sahyadri_events.AdminLogin$1
+com/example/sahyadri_events/StudentLoginPage.java
+ com.example.sahyadri_events.StudentLoginPage
+ com.example.sahyadri_events.StudentLoginPage$1
+ com.example.sahyadri_events.StudentLoginPage$2
+com/example/sahyadri_events/BuildConfig.java
+ com.example.sahyadri_events.BuildConfig
+com/example/sahyadri_events/StudentRegisterEvent.java
+ com.example.sahyadri_events.StudentRegisterEvent
+ com.example.sahyadri_events.StudentRegisterEvent$1
+ com.example.sahyadri_events.StudentRegisterEvent$2
+com/example/sahyadri_events/MainActivity.java
+ com.example.sahyadri_events.MainActivity
+ com.example.sahyadri_events.MainActivity$1
+ com.example.sahyadri_events.MainActivity$2
+com/example/sahyadri_events/DBHelper.java
+ com.example.sahyadri_events.DBHelper
+com/example/sahyadri_events/StudentLandingPage.java
+ com.example.sahyadri_events.StudentLandingPage
+ com.example.sahyadri_events.StudentLandingPage$1
+ com.example.sahyadri_events.StudentLandingPage$2
+ com.example.sahyadri_events.StudentLandingPage$3
+ com.example.sahyadri_events.StudentLandingPage$4
+com/example/sahyadri_events/StudentProfile.java
+ com.example.sahyadri_events.StudentProfile
+ com.example.sahyadri_events.StudentProfile$1
+ com.example.sahyadri_events.StudentProfile$2
+com/example/sahyadri_events/ssss.java
+ com.example.sahyadri_events.ssss
+com/example/sahyadri_events/Admin_Add_event.java
+ com.example.sahyadri_events.Admin_Add_event
+ com.example.sahyadri_events.Admin_Add_event$1
+ com.example.sahyadri_events.Admin_Add_event$2
+com/example/sahyadri_events/AdminHomeAdapter.java
+ com.example.sahyadri_events.AdminHomeAdapter
+ com.example.sahyadri_events.AdminHomeAdapter$MyViewHolder
+com/example/sahyadri_events/AdminSearchEvent.java
+ com.example.sahyadri_events.AdminSearchEvent
+com/example/sahyadri_events/LandingPageAdapter.java
+ com.example.sahyadri_events.LandingPageAdapter
+ com.example.sahyadri_events.LandingPageAdapter$MyViewHolder

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sahyadri_events"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.Sahyadri_events" >
+        <activity android:name="com.example.sahyadri_events.AdminSearchEvent" />
+        <activity android:name="com.example.sahyadri_events.ssss" />
+        <activity android:name="com.example.sahyadri_events.StudentLandingPage" />
+        <activity android:name="com.example.sahyadri_events.StudentLoginPage" />
+        <activity android:name="com.example.sahyadri_events.StudentProfile" />
+        <activity
+            android:name="com.example.sahyadri_events.Admin_Registrations"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity android:name="com.example.sahyadri_events.Student_Registrations" />
+        <activity android:name="com.example.sahyadri_events.StudentRegisterEvent" />
+        <activity android:name="com.example.sahyadri_events.Admin_Add_event" />
+        <activity android:name="com.example.sahyadri_events.AdminHomePage" />
+        <activity android:name="com.example.sahyadri_events.StudentRegister" />
+        <activity android:name="com.example.sahyadri_events.AdminLogin" />
+        <activity android:name="com.example.sahyadri_events.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sahyadri_events">
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Sahyadri_events">
+        <activity android:name=".AdminSearchEvent"></activity>
+        <activity android:name=".ssss" />
+        <activity android:name=".StudentLandingPage" />
+        <activity android:name=".StudentLoginPage" />
+        <activity android:name=".StudentProfile" />
+        <activity android:name=".Admin_Registrations" android:windowSoftInputMode="adjustNothing"/>
+        <activity android:name=".Student_Registrations" />
+        <activity android:name=".StudentRegisterEvent" />
+        <activity android:name=".Admin_Add_event" />
+        <activity android:name=".AdminHomePage" />
+        <activity android:name=".StudentRegister" />
+        <activity android:name=".AdminLogin" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
